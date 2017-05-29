@@ -1,8 +1,10 @@
 BridgetownPartners.com
 ===
 
-Source code for the [BridgetownPartners.com](http://bridgetownpartners.com) site.
+Source code for the Bridgetown Partners, LLC site. Two URLs:
+* [BridgetownLLC.com](http://bridgetownllc.com)
+* [BridgetownPartners.com](http://bridgetownpartners.com)
 
 All of the action happens in the `gh-pages` branch.
 
-What future awaits this property?!
+What future awaits?!
