@@ -1,4 +1,4 @@
-BridgetownPartners.com
+Bridgetown Partners, LLC
 ===
 
 Source code for the Bridgetown Partners, LLC site. Two URLs:
