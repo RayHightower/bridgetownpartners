@@ -7,8 +7,8 @@ BridgetownLLC.com
 ===
 
 Bridgetown Partners, LLC<br/>
-27 North Wacker Drive, Suite 406<br/>
-Chicago, IL 60606<br/>
-USA
+Chicago &#8226; Los Angeles<br/>
+USA<br/>
 &nbsp;<br/>
++1.312.842.2200<br/>
 &nbsp;<br/>
