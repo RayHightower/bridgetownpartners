@@ -16,7 +16,7 @@ and software development.<br/>
 </p>
 
 <p>
-Chicago, IL &#8226; Los Angeles, CA<br/>
+Los Angeles &#8226; Chicago<br/>
 USA<br/>
 &nbsp;<br/>
 +1.312.842.2200<br/>
