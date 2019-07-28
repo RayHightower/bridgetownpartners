@@ -10,8 +10,8 @@ Bridgetown Partners, LLC
  real estate: acquisitions, asset management, and software development.
 -->
 <p>
-Serving clients at the intersection of<br/>
-commercial real estate & software development.<br/>
+Commercial real estate acquisitions & management,<br/>
+powered by intuitive software.<br/>
 &nbsp;<br/>
 </p>
 
