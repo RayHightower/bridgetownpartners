@@ -20,7 +20,7 @@ Los Angeles &#8226; Chicago<br/>
 USA<br/>
 &nbsp;<br/>
 &nbsp;<br/>
-BridgetownLLC.com<br/>
+BridgetownPartners.com<br/>
 &nbsp;<br/>
 +1.312.842.2200<br/>
 &nbsp;<br/>
