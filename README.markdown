@@ -9,4 +9,3 @@ Source code for the [Bridgetown Partners, LLC](https://bridgetownpartners.com) s
 
 All of the action happens in the `gh-pages` branch.
 
-The future is most exciting!
