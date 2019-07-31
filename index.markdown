@@ -18,6 +18,6 @@ USA<br/>
 &nbsp;<br/>
 BridgetownPartners.com<br/>
 &nbsp;<br/>
-Phone: +1.312.842.2200<br/>
+Phone: 312.842.2200<br/>
 &nbsp;<br/>
 </p>
