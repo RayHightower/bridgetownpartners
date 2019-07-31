@@ -4,6 +4,21 @@
     <title>{{ site.title }}</title>
     <style type="text/css">
 
+    img.bg {
+      /* Set rules to fill background */
+      min-height: 100%;
+      min-width: 1024px;
+
+      /* Set up proportionate scaling */
+      width: 100%;
+      height: 100%;
+
+      /* Set up positioning */
+      position: fixed;
+      top: 0;
+      left: 0;
+    }
+
     @media screen and (max-width: 1024px) { /* Specific to this particular image */
       img.bg {
         width: auto;/* 50% */
@@ -123,6 +138,22 @@ a {
           {{content}}
 
     </div>
+
+    <!-- Drip -->
+    <script type="text/javascript">
+      var _dcq = _dcq || [];
+      var _dcs = _dcs || {}; 
+      _dcs.account = '2774108';
+
+      (function() {
+        var dc = document.createElement('script');
+        dc.type = 'text/javascript'; dc.async = true; 
+        dc.src = '//tag.getdrip.com/2774108.js';
+        var s = document.getElementsByTagName('script')[0];
+        s.parentNode.insertBefore(dc, s);
+      })();
+    </script>
+    <!--- Drip ends -->
 
     </body>
 </html>
