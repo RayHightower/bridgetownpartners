@@ -3,12 +3,8 @@ layout: default
 ---
 &nbsp;<br/>
 
-<img src="/images/bridgetown_partners_logo.png" width="400">
-===
+<img src="/images/bridgetown_partners_logo.png" width="400" alt="Bridgetown Partners, LLC" title="Bridgetown Partners, LLC">
 
-<!--
- real estate: acquisitions, asset management, and software development.
--->
 <p>
 Commercial real estate acquisitions & management,<br/>
 powered by intuitive software.<br/>
