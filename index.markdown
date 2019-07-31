@@ -3,7 +3,7 @@ layout: default
 ---
 &nbsp;<br/>
 
-Bridgetown Partners, LLC
+<img src="/images/bridgetown_partners_logo.png" width="400">
 ===
 
 <!--
