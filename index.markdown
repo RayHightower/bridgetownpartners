@@ -21,6 +21,6 @@ info@BridgetownPartners.com<br/>
 +1.312.842.2200<br/>
 &nbsp;<br/>
 GitHub: <a href="https://github.com/bridgetownpartners">BridgetownPartners</a><br/>
-Instagram: <a href="https://instagram.com/bridgetownpartners">BridgetownPartners</a><br/>
-Twitter: <a href="https://twitter.com/BridgetownPtrs">BridgetownPtrs</a><br/>
+Instagram: <a href="https://instagram.com/bridgetownpartners">@BridgetownPartners</a><br/>
+Twitter: <a href="https://twitter.com/BridgetownPtrs">@BridgetownPtrs</a><br/>
 </p>
