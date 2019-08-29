@@ -12,10 +12,6 @@ powered by intuitive software.<br/>
 </p>
 
 <p>
-Los Angeles &#8226; Chicago<br/>
-USA<br/>
-&nbsp;<br/>
-&nbsp;<br/>
 info@BridgetownPartners.com<br/>
 &nbsp;<br/>
 +1.312.842.2200<br/>
@@ -31,3 +27,28 @@ Twitter:</td><td align="left"><a href="https://twitter.com/BridgetownPtrs">@Brid
 </table>
 </center>
 </p>
+<center>
+<table>
+<tr><td align="center">
+<b>Los Angeles</b></td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align="center">
+<b>Chicago</b></td>
+</tr>
+<tr>
+<td align="center">
+3894 Crenshaw Blvd<br/>
+Suite 56109<br/>
+Los Angeles, CA 90056<br/>
+USA</td>
+<td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
+<td align="center">27 North Wacker Drive<br/>
+Suite 406<br/>
+Chicago, IL 60606<br/>
+USA</td>
+</tr>
+</table>
+</center>
+&nbsp;<br/>
+&nbsp;<br/>
+&nbsp;<br/>
