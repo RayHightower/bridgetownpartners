@@ -25,6 +25,8 @@ LinkedIn:</td><td align="left"><a href="https://www.linkedin.com/company/bridget
 <tr><td align="right">
 Instagram:</td><td align="left"><a href="https://instagram.com/bridgetownpartners">@BridgetownPartners</a><br/></td></tr>
 <tr><td align="right">
+Facebook:</td><td align="left"><a href="https://facebook.com/BridgetownPartners">BridgetownPartners</a><br/></td></tr>
+<tr><td align="right">
 Twitter:</td><td align="left"><a href="https://twitter.com/BridgetownPtrs">@BridgetownPtrs</a><br/></td></tr>
 </table>
 </center>
