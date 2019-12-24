@@ -33,6 +33,28 @@ Twitter:</td><td align="left"><a href="https://twitter.com/BridgetownPtrs">@Brid
 </p>
 <center>
 <table>
+<tr>
+<td>
+&nbsp;
+</td>
+</tr>
+<tr>
+<td align="right">
+<a href="https://BizDay.LA"><img src="/images/BizDayLA.png" width="100" alt="BizDay.LA - An exciting event for current and aspiring business owners." title="BizDay.LA - An exciting event for current and aspiring business owners." ></a>
+</td>
+<td>
+</td>
+<td align="left">
+The Bridgetown Partners team is a proud sponsor<br/>of <a href="https://BizDay.LA">BizDay.LA</a>, an exciting event for current<br/>
+and aspiring business owners.
+</td>
+</tr>
+<tr>
+<td>
+&nbsp;<br/>
+&nbsp;<br/>
+</td>
+</tr>
 <tr><td align="center">
 <b>Los Angeles</b></td>
 <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td>
@@ -50,22 +72,6 @@ USA</td>
 Suite 406<br/>
 Chicago, IL 60606<br/>
 USA</td>
-</tr>
-<tr>
-<td>
-&nbsp;
-</td>
-</tr>
-<tr>
-<td align="right">
-<a href="https://BizDay.LA"><img src="/images/BizDayLA.png" width="100" alt="BizDay.LA - An exciting event for current and aspiring business owners." title="BizDay.LA - An exciting event for current and aspiring business owners." ></a>
-</td>
-<td>
-</td>
-<td align="left">
-The Bridgetown Partners team is a proud sponsor<br/>of <a href="https://BizDay.LA">BizDay.LA</a>, an exciting event for current<br/>
-and aspiring business owners.
-</td>
 </tr>
 </table>
 </center>
