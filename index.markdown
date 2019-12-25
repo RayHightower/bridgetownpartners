@@ -40,7 +40,7 @@ Twitter:</td><td align="left"><a href="https://twitter.com/BridgetownPtrs">@Brid
 </tr>
 <tr>
 <td align="right">
-<a href="https://BizDay.LA"><img src="/images/BizDayLA.png" width="100" alt="BizDay.LA - An exciting event for current and aspiring business owners." title="BizDay.LA - An exciting event for current and aspiring business owners." ></a>
+<a href="https://BizDay.LA"><img src="/images/BizDayLA.png" width="100" alt="BizDay.LA - An exciting event for current and aspiring business owners. Los Angeles, California, USA." title="BizDay.LA - An exciting event for current and aspiring business owners. Los Angeles, California, USA." ></a>
 </td>
 <td>
 </td>
