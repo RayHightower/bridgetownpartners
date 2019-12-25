@@ -45,7 +45,7 @@ Twitter:</td><td align="left"><a href="https://twitter.com/BridgetownPtrs">@Brid
 <td>
 </td>
 <td align="left">
-The Bridgetown Partners team is a proud sponsor<br/>of <a href="https://BizDay.LA">BizDay.LA</a>, an exciting event for current<br/>
+The Bridgetown Partners team is a proud<br/>sponsor of <a href="https://BizDay.LA">BizDay.LA</a>, an exciting event for<br/>current 
 and aspiring business owners.
 </td>
 </tr>
